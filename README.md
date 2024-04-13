@@ -1,4 +1,4 @@
 # Hitesh-demo
-This is my first repository on Github, Thanks!
+This is my first repository oncd  Github, Thanks!
 <br>
-Author - Hitesh Patil
+Author - Hitesh Patil is a Good boy
